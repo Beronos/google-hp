@@ -1,0 +1,97 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+#nav{
+    height : 22vh;
+    width : 100%;
+}
+
+#mainlist{
+    list-style: none;
+    margin-left: 1250px;
+}
+
+li{
+    float:left; 
+    padding:8px;
+    margin-left
+}
+
+#mg{
+    height:24px;
+    width:24px;
+}
+
+#google{
+    margin-bottom: 0px;
+    height: 130px;
+    width:310px;
+    margin-left:600px;
+}
+
+input{
+    height: 40px;
+    width: 500px;
+    margin-left:490px;
+    padding-left:15px;
+    font-size:20px;
+    border:1px solid #e5e5e5;
+    border-radius:3%;
+    box-shadow:0px 3px 0px 0px #e5e5e5;
+
+}
+
+#mic-d{
+    margin-top: -36px; 
+    margin-left:1010px;
+}
+#mic{
+    height:28px;
+    cursor:pointer;
+    
+}
+
+.buttons{
+    height:38px;
+    width:140px;
+    background-color:#f6f6f6;
+    font-size:15px;
+    columns: #222222;
+    margin-top: 25px;
+    border: 1px solid #e5e5e5;
+}
+
+#normal.buttons{
+    margin-left:615px;
+}
+
+#lucky.buttons{
+    margin-left:5px;
+}
+
+.footer{
+    text-decoration: none;
+    width: 100%;
+    position:fixed;
+    background: #f2f2f2;
+    border:1px solid #e4e4e4;
+    padding: 10px 0;
+    color: #6f6f6f;
+    bottom: 0;
+    font-size:11pt;
+
+}
+
+#footer-list{
+    list-style: none;
+    cursor:pointer;
+    font-size:10pt;
+}
+
+
+#priv{
+    margin-left:920px;
+
+}
